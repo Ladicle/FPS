@@ -1,0 +1,4 @@
+atk.wav
+bgm.wav
+fadein.wav
+gun2.wav
