@@ -8,5 +8,5 @@ Copyright (C) since 2007 25℃, All rights reserved.
 
 Library
 ---------
-DirectX
+DirectX  
 ARS
